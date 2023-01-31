@@ -1,0 +1,1 @@
+[{"id":1,"name":"Harry","expenses":[{"id":1,"Date":"04-01-2023","Amount":5000,"Description":"Rent"},{"id":2,"Date":"05-01-2023","Amount":1000,"Description":"Petrol"}]},{"id":2,"name":"Hermione","expenses":[{"id":1,"date":"06-01-2023","amount":1000,"description":"shopping"}]},{"id":3,"name":"Ron","expenses":[{"id":1,"date":"02-01-2023","amount":2000,"description":"travelling"}]}]

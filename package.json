@@ -1,0 +1,16 @@
+{
+  "name": "expensesheet",
+  "version": "1.0.0",
+  "description": "A simple expense project",
+  "main": "index2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SJ",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "git": "^0.1.5",
+    "mongodb": "^4.13.0"
+  }
+}
