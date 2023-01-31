@@ -52,7 +52,4 @@ app.listen(port, () => {
 });
 
 
-module.exports = {
-    db,
-    collection
-}
+module.exports = collection
