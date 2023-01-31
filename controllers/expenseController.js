@@ -1,9 +1,10 @@
 const Expense = require('../expense')
 const client = require('../index2')
+const { collection } = require('../index2')
 
 const getExpenses = async (req, res) => {
     try {
-        const expenses = await client.collection.find({})
+        const expenses = await collection.find({})
         res.status(200).json(expenses)
     } catch (error) {
         res.status(500).json({ message: error.message })
